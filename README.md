@@ -16,10 +16,9 @@ The project explores different portfolio allocation strategies, including:
 - `codes/`: MATLAB scripts and functions
 - `reports/`: project reports
 
-
-```markdown
 ## How to run
 Open MATLAB, set the `codes/` folder as the working directory, and run:
 
 ```matlab
 Run_Project
+```
